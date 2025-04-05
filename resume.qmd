@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cassidy Sadler Resume
 ---
 # Cassidy Sadler
 
